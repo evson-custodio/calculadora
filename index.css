@@ -1,0 +1,29 @@
+h1 {
+    color: red;
+}
+
+.deixaComTamanhoDe100Px {
+    height: 100px;
+}
+
+.deixaVermelho {
+    color: red;
+}
+
+#primeiroNumero {
+    height: 100px;
+    color: red;
+}
+
+#botaoCalcular {
+    background-color: blue;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+#imagem {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    box-shadow: 10px black;
+}
